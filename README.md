@@ -2,7 +2,8 @@
 ## author: 
   * id: 66114540724
   * name: sirikwan munart
-## technology: [pygame/streamlit]
+## technology:
+   * [pygame/]
 ## application description:
 รายละเอียดโครงงาน
 ## presentation:
