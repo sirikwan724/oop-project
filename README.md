@@ -11,7 +11,7 @@
   * ซึงเกมนี้สามารถเล่นได้ถึง2ผู้เล่น โดยสกอที่จะนับคือดาเมจที่แต่ละฝ่ายได้รับ
   * เป็นเกมที่วนลูป ที่เราสามารถเล่นได้ต่อเนื่องเรื่อยๆได้
 ## presentation:
-* [[https://www.canva.com/design/DAF-gsPio48/yS5tCJtNjVJgb0o7ahgvWg/edit?utm_content=DAF-gsPio48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF-gsPio48/sBrSHQZgBRrwXqGvD4TvAg/view?utm_content=DAF-gsPio48&utm_campaign=designshare&utm_medium=link&utm_source=editor)https://www.canva.com/design/DAF-gsPio48/sBrSHQZgBRrwXqGvD4TvAg/view?utm_content=DAF-gsPio48&utm_campaign=designshare&utm_medium=link&utm_source=editor]
+* [https://www.canva.com/design/DAF-gsPio48/yS5tCJtNjVJgb0o7ahgvWg/edit?utm_content=DAF-gsPio48&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 * link [public/ubu]
 ## video:
 * link [public/ubu]
