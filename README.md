@@ -14,5 +14,5 @@
 * [https://www.canva.com/design/DAF-zTYiM18/sqnHqk3rU9piC3ctJ19j4g/edit?utm_content=DAF-zTYiM18&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
 * link [public/ubu]
 ## video:
-* link [public/ubu]
+* link [https://www.canva.com/design/DAF_BHf5K-A/_MEu5UAKZ1_AP4hM2eBmpA/view?utm_content=DAF_BHf5K-A&utm_campaign=designshare&utm_medium=link&utm_source=recording_view]
  xoxoxo
