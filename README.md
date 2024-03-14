@@ -1,5 +1,5 @@
 # application title
-  *Classic game
+  *Classic game_🎮
 ## author: 
   * id: 66114540724
   * name: sirikwan munart
